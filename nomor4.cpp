@@ -22,3 +22,14 @@ int main(){
     }
     return 0; 
 }
+
+/*
+1. Decomposition - divide 
+- lihat bentuk pola 
+- lihat apa yang dituliskan dalam pola
+1. Tahu bagaimana pola diwrite
+2. Terapkan CT
+2a. Pattern Recognitiom
+- menggambar grid untuk bantuan (ada elemen baris dan kolomnya)
+- lihat pola
+*/
